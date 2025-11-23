@@ -34,7 +34,7 @@ The results are displayed in a table, saved to a database, and optionally downlo
 
 Installation and Setup
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/Sudeep63/web-scrapping-sentiment-amazon/blob/main/README.md)
 cd REPOSITORY_NAME
 
 Install required Python packages:
